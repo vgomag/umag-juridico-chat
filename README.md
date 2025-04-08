@@ -1,7 +1,7 @@
-# Bot Jurídico UMAG
+# Fiscalito Chat Jurídico
 
 ## Descripción
-Aplicación web para consultas jurídicas especializadas de la Universidad de Magallanes.
+Aplicación web para consultas jurídicas especializadas.
 
 ## Características
 - Múltiples funciones jurídicas
@@ -15,12 +15,9 @@ Aplicación web para consultas jurídicas especializadas de la Universidad de Ma
 - Vista Fiscal
 
 ## Configuración
-1. Reemplazar `CLOUD_FUNCTION_URL` en `script.js`
-2. Asegurar conexión a Cloud Function
+1. https://github.com/enterprises/fiscalito
+2. Asegurar conexión 
 
 ## Requisitos
 - Navegador web moderno
 - Conexión a Internet
-
-## Contacto
-Universidad de Magallanes - Departamento Jurídico

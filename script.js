@@ -42,7 +42,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const CLOUD_FUNCTION_URL = 'https://tu-cloud-function-url.cloudfunctions.net/procesarConsulta';
 
         try {
-            const response = await fetch(CLOUD_FUNCTION_URL, {
+            const response = await fetch(https://github.com/enterprises/fiscalito, {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
