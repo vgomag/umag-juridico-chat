@@ -1,0 +1,1 @@
+# umag-juridico-bot
